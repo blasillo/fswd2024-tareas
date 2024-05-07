@@ -1,0 +1,2 @@
+CREATE USER app_tareas IDENTIFIED BY S3cr3t0;
+GRANT ALL PRIVILEGES TO app_tareas;

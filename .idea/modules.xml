@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/backend-api/backend-api.iml" filepath="$PROJECT_DIR$/backend-api/backend-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frontend-ui.iml" filepath="$PROJECT_DIR$/frontend-ui.iml" />
       <module fileurl="file://$PROJECT_DIR$/fswd2024-tareas.iml" filepath="$PROJECT_DIR$/fswd2024-tareas.iml" />
     </modules>
   </component>
